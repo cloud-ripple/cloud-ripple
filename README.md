@@ -8,7 +8,8 @@
 
 ## 今年汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=cloud-ripple&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&range=all_time" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-ripple&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&range=all_time" />
+<img align="" height="137px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=cloud-ripple&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&range=all_time" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-ripple&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&range=all_time"/>
 
 ## 社交 🤝
 [![哔哩哔哩](https://img.shields.io/badge/b%20%E7%AB%99-white%3F?logo=bilibili&logoColor=pink)](https://space.bilibili.com/430185073)
