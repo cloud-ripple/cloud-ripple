@@ -21,6 +21,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://www.instagram.com/lilianlee.me/)
 [![Pixabay](https://img.shields.io/badge/Pixabay-white?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
 
-[![哔哩哔哩(https://img.shields.io/badge/哔哩-white?logo=bilibili)](https://space.bilibili.com/430185073)
+[![哔哩哔哩](https://img.shields.io/badge/b%20%E7%AB%99-white%3F?logo=bilibili&logoColor=pink)](https://space.bilibili.com/430185073)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/liliansd)
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
