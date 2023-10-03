@@ -6,8 +6,8 @@
 
 ## 年度汇总 ✨
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?
-  username=cloud-ripple&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-ripple&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+  username=cloud-ripple&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+  
 <!-- 
   ![cloud-ripple's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-ripple&show_icons=true&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-ripple&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
